@@ -72,7 +72,7 @@ int main()
          }
          }
          while(repita);
-    
+         break;
          }
        
          
