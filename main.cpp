@@ -33,7 +33,7 @@ int main()
             cout<<"3->Cidade:"<<cidade<<endl;
             cout<<"4->experiencia: "<<experiencia<<endl;
             cout<<"5-> Cargo: "<<cargo<<endl;
-            
+            break;
             }
             
             case 2:
